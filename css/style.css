@@ -931,7 +931,7 @@ ul.portfolio-image li .desc{
   width: 100%;
 }
 .bg-about {
-  background: url('../images/meow.jpg');
+  background: url('../images/mpi_me_2.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -984,15 +984,15 @@ ul.portfolio-image li .desc{
   height: 35px;
 }
 .wrap-about .head-about {
-  position: relative;
   font-size: 15px;
   line-height: 34px;
   letter-spacing: 0.5px;
   font-weight: 300;
   font-family: 思源宋體;
+  margin-bottom: 30px;
 }
 .wrap-about .name {
-  margin: 20px 0 10px 0;
+  margin: 30px 0 20px 0;
   /* font-size: 14px; */
   font-family: 思源宋體;
 }
