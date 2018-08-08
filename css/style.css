@@ -984,6 +984,7 @@ ul.portfolio-image li .desc{
   height: 35px;
 }
 .wrap-about .head-about {
+  position: relative;
   font-size: 15px;
   line-height: 34px;
   letter-spacing: 0.5px;
@@ -991,7 +992,7 @@ ul.portfolio-image li .desc{
   font-family: 思源宋體;
 }
 .wrap-about .name {
-  margin: 40px 0 20px 0;
+  margin: 20px 0 10px 0;
   /* font-size: 14px; */
   font-family: 思源宋體;
 }
