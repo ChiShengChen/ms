@@ -1610,3 +1610,77 @@ ul.portfolio-image li .desc{
 .awtxt{
   font-family: 思源宋體;
   }
+
+
+/*******************************************/
+/********nbtns******************/
+.newsbtns{
+  display: flex;
+  position: static;
+  /* margin-top: 230px; */
+  justify-content: center;
+  /* padding-left: 90px; */
+  align-items: center;
+
+}
+
+.newsbtns .newsbtn{
+  display: inline-block;
+  padding: 10px 25px;
+  letter-spacing: 2px;
+}
+
+.newsbtnWebsite{
+  font-family: 思源宋體;
+  background-color: #807da3;
+  color: white;
+}
+
+.newsbtnWebsite:hover{
+  background-color: #bbb;
+  transition: 0.5s;
+}
+
+.mulbtns{
+  display: flex;
+  /* position: static; */
+  /* display: inline-block; */
+  justify-content: center;
+  padding-left: 90px;
+  align-items: center;
+  padding: 10px 25px;
+  letter-spacing: 2px;
+
+}
+/*mul*/
+.nbtns{
+  margin-top: 30px;
+  padding-left: 10px;
+  /* border: solid 1px black; */
+}
+
+.nbtns .nbtn{
+  display: inline-block;
+  padding: 10px 25px;
+  letter-spacing: 2px;
+  /* border: solid 1px black; */
+}
+
+.nbtnNews{
+  /* float: right; */
+  border: solid 1px #eee;
+}
+
+.nbtnWebsite{
+  background-color: #807da3;
+  color: white;
+}
+
+.nbtnWebsite:hover{
+  background-color: #bbb;
+  transition: 0.5s;
+}
+
+.nbtnNews:hover{
+  background-color: #eee;  
+}
